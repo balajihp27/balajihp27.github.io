@@ -148,6 +148,10 @@ img {
     /* Lowering the shadow */ 
 } 
 
+strong {
+    color: #3be6fc
+}
+
 .intro {
     margin: 0 auto;
 }
